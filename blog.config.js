@@ -1,9 +1,9 @@
 const BLOG = {
-  title: 'Blog of Erin',
+  title: 'Website of Erin',
   author: 'Erin Huang',
   email: 'erincherish@gmail.com',
-  link: 'https://nobelium.vercel.app',
-  description: 'This gonna be an awesome website.',
+  link: 'https://erinhuang.me',
+  description: 'Personal website of Erin',
   lang: 'en-US', // ['en-US', 'zh-CN', 'zh-HK', 'zh-TW', 'ja-JP']
   appearance: 'auto', // ['light', 'dark', 'auto'],
   font: 'sans-serif', // ['sans-serif', 'serif']
